@@ -1,0 +1,247 @@
+{
+  "main": {
+    "calendar": "Calendar",
+    "postcard": "Postcard",
+    "accommodation": "Accommodation",
+    "discover_title": "Discover Malaysia Like Never Before",
+    "discover_text": "Explore hidden gems, iconic landmarks and cultural treasure",
+    "deals_title": "Deals and Packages",
+    "deals_text": "We offer various deals and offer for those who want to visit Malaysia!",
+    "social_title": "#Social Media",
+    "social_text": "Follow along for even more travel inspiration as we show you the businesses, locations, and opportunities that make Malaysia so special!"
+  },
+  "header": {
+    "contact_us": "Contact Us"
+  },
+  "nav": {
+    "about_malaysia": "About Malaysia",
+    "experience": "Experience",
+    "eatanddrinks": "Eat and Drinks",
+    "plan": "Plan Your Trips",
+    "travel": "Travel Tips",
+    "language": "Language",
+    "search": "Search"
+  },
+  "dropdown": {
+    "eat": {
+      "dishes": "Must Try Malaysian Dishes",
+      "street": "Famous Street Food",
+      "desserts": "Iconic Malaysian Desserts",
+      "regional": "Regional Specialties",
+      "michelin": "Michelin-starred Restaurants"
+    },
+    "islands": {
+      "beaches": "Island and Beaches",
+      "culture": "Culture and Heritage",
+      "family": "Familyfun",
+      "nature": "Nature"
+    },
+    "tips": {
+      "transport": "Public Transport",
+      "apps": "Recommandation App for Staying in Malaysia"
+    },
+    "plan": {
+      "healthcare": "Facilities, Welfare and Health Care",
+      "visa": "Visa on Departure"
+    }
+  },
+  "footer": {
+    "more-about": "MORE ABOUT MALAYSIA",
+    "halal": "halal travel",
+    "overview": "overview",
+    "contact": "CONTACT US",
+    "address": "Address",
+    "enquiries": "Enquiries",
+    "follow": "FOLLOW US",
+    "deals": "DEALS AND PACKAGES",
+    "deals-1": "Deals",
+    "packages": "Packages",
+    "hyperlinks": "HYPERLINKS",
+    "gallery": "Gallery"
+  },
+  "banner": {
+    "itinerary_header": "Suggested itineraries",
+    "itinerary_paragraph": "Indulge in an awe-inspiring adventure of a lifetime. Enjoy fun times with your family, explore the wilderness and taste the mouth-watering cuisine of Malaysia."
+  },
+  "subscribe-button": {
+    "sub": "Subscribe"
+  },
+  "region": {
+    "johor": {
+      "title": "Johor",
+      "name": "Johor: The Southern Gateway to Malaysia",
+      "description": "The state of Johor is situated at the southernmost point of Peninsular Malaysia; hence, it is also known as the Southern Gateway to Malaysia."
+    },
+    "kedah": {
+      "title": "Kedah",
+      "name": "Kedah: The Rice Bowl of Malaysia",
+      "description": "Kedah is renowned for its paddy fields and traditional villages, offering a serene and cultural travel experience."
+    },
+    "kelantan": {
+      "title": "Kelantan",
+      "name": "Kelantan: The Cradle of Malay Culture",
+      "description": "Known for its rich traditions, crafts, and conservative lifestyle, Kelantan reflects the core of Malaysia's heritage."
+    },
+    "melaka": {
+      "title": "Melaka",
+      "name": "Melaka: UNESCO World Heritage City",
+      "description": "Explore Melaka's historical streets, colonial architecture, and multicultural influences."
+    },
+    "negerisembilan": {
+      "title": "Negeri Sembilan",
+      "name": "Negeri Sembilan: Tradition and Nature",
+      "description": "Known for its unique Minangkabau culture and lush natural beauty."
+    },
+    "pahang": {
+      "title": "Pahang",
+      "name": "Pahang: Nature and Highlands",
+      "description": "Home to Cameron Highlands, Taman Negara, and beautiful beaches."
+    },
+    "perak": {
+      "title": "Perak",
+      "name": "Perak: Tin Mines and Heritage Towns",
+      "description": "Rich in colonial history, caves, and charming towns like Ipoh and Taiping."
+    },
+    "perlis": {
+      "title": "Perlis",
+      "name": "Perlis: Smallest State, Big on Charm",
+      "description": "Malaysia's smallest state is known for its peaceful countryside and limestone hills."
+    },
+    "penang": {
+      "title": "Penang",
+      "name": "Penang: The Food Capital of Malaysia",
+      "description": "A blend of modern city and old town, Penang offers world-famous street food and cultural diversity."
+    },
+    "sabah": {
+      "title": "Sabah",
+      "name": "Sabah: Land Below the Wind",
+      "description": "Home to Mount Kinabalu and marine paradises like Sipadan Island."
+    },
+    "sarawak": {
+      "title": "Sarawak",
+      "name": "Sarawak: Mystical Borneo",
+      "description": "Explore rainforests, caves, and unique indigenous cultures in Malaysia's largest state."
+    },
+    "selangor": {
+      "title": "Selangor",
+      "name": "Selangor: Modern Cities and Hidden Gems",
+      "description": "A balance of urban sophistication and natural beauty near Kuala Lumpur."
+    },
+    "terengganu": {
+      "title": "Terengganu",
+      "name": "Terengganu: Islands and Islamic Heritage",
+      "description": "Known for its turquoise islands, batik, and traditional architecture."
+    },
+    "kuala_lumpur": {
+      "title": "Kuala Lumpur",
+      "name": "Kuala Lumpur: The Capital City",
+      "description": "Malaysia’s bustling capital city filled with skyscrapers, shopping, and culture."
+    },
+    "labuan": {
+      "title": "Labuan",
+      "name": "Labuan: Offshore and Dive Paradise",
+      "description": "A duty-free island offering history, shipwreck diving, and business opportunities."
+    },
+    "putrajaya": {
+      "title": "Putrajaya",
+      "name": "Putrajaya: The Federal Administrative Capital",
+      "description": "A modern planned city featuring impressive architecture and serene lakes."
+    },
+    "default_prompt": "Click on each state to discover more!"
+  },
+  "cs": {
+    "welcome": "Welcome to the Chat Support!",
+    "love1": "We would love to help you, but don't be shy.",
+    "love2": " We promise we will help you",
+    "love3": "with everything we can!",
+    "chat": "CHAT WITH US"
+  },
+  "food": {
+    "intro": {
+      "taste": "A Taste of Malaysia",
+      "p1": "From street food to fine dining, taste a world of flavors in Malaysia!",
+      "p2": " Malaysian food isn’t just about eating—it’s about experiencing a rich blend of cultures on every plate. With influences from Malay, Chinese, Indian, Peranakan, and indigenous traditions, the flavors here are as diverse as the people. Every region has its own specialties, and every season brings something new to the table.",
+      "p3": "From the sizzling street food of night markets to the comforting warmth of a traditional kopitiam (coffee shop), Malaysia’s dining scene is an adventure in itself. You can grab a plate of nasi lemak from a roadside stall, enjoy a hearty meal at a bustling mamak, feast on fresh seafood at a floating restaurant, or treat yourself to an elegant fine-dining experience. There’s even room for quirky, themed eateries and modern fusion spots that push culinary boundaries."
+    },
+    "button1": {
+      "h2": "Must Try Malaysian Dishes",
+      "p": "Malaysian food is all about bold flavors and cultural diversity,bringing together Malay, Chinese, Indian, and indigenous influences inevery bite. Here are some must-try dishes that truly represent Malaysia's rich food heritage"
+    },
+    "button2": {
+      "h2": "Famous Street Food",
+      "p": "Malaysia’s street food is like a journey through its vibrant culture, with every dish telling a story of the country’s mix of traditions. Whether it's a quick bite or a leisurely snack, the food is full of flavor and made with love, offering a taste of the heart of Malaysia"
+    },
+    "button3": {
+      "h2": "Iconic Malaysian Desserts",
+      "p": "Iconic Malaysian desserts are like little bites of happiness, capturing the heart of the country’s rich culture. Whether sweet, chewy, or a bit of both, these treats bring people together, offering a true taste of Malaysia’s warmth and flavor"
+    },
+    "button4": {
+      "h2": "Regional Specialties",
+      "p": "Eat like locals! Malaysia’s regions each have their own unique food traditions, making every part of the country a new culinary adventure. Discover each region specialties and diverse history"
+    },
+    "button5": {
+      "h2": "Michelin-starred restaurants",
+      "p": "Check out some of the spots which won the coveted culinary stars and secured their status as the best of the best"
+    }
+  },
+  "island": {
+    "intro": {
+      "h2": "Explore Malaysia's Breathaking Islands and Beaches",
+      "p": "Discover serene shores, vibrant marine life, and crystal-clear waters"
+    },
+    "button1": {
+      "place": "LANGKAWI"
+    },
+    "button2": {
+      "place": "RAWA"
+    },
+    "button3": {
+      "place": "REDANG"
+    },
+    "button4": {
+      "place": "SEMPORNA"
+    },
+    "langkawi": {
+      "content": {
+        "h2": "LANGKAWI",
+        "h21": "Langkawi: A Tropical Haven Where Stunning Beaches, Lush Rainforests, and Endless Adventures Come Together",
+        "summary": "Summary",
+        "h22": "Where Are the Langkawi Located?",
+        "p1": " Langkawi is a cluster of 99 islands and is a part of Malaysia. The main and the largest island is know as Pulau Langkawi. It is considered as one of the ost beautiful islands in the whole of peninsular Malaysia and on Andaman Sea. It is adjacent to and south of Thailand. The Islands are separated from the main land of Malaysia by the water channel know as the Strait of Malacca",
+        "p2": "Langkawi is actually an extension of the state of Kedah in Malaysia. From Kuala Kedah, it is 51kms off shore and in the north west. However the nearest point on the western coast of Malaysia from one can reach Langkawi is Kuala Perlis on the west.",
+        "fig1": "Picture of Dataran Lang",
+        "h222":"Best Time to Visit Langkawi",
+        "p3": "November to April is the best time to visit Langkawi, as this is when Malaysia’s west coast receives the most sunshine and the least rain. Winds begin to pick up in May, and there’s more chance of thunderstorms. In June and July you may experience short, sharp showers. Between August and October heavy downpours become more common.",
+        "h23": "Festivals, events and seasonal reasons to visit:",
+        "p4": "In April, the Langkawi International Festival of Art (LIFA) takes place. Held in the Ibrahim Hussein Museum and Cultural Foundation in the Datai Bay area, this 10-day event sees talented artists and artisans from around the world participating in painting, sculpting, dance, music and poetry.",
+        "p5": "The Langkawi International Water Festival also takes place in April. It features water sports activities such as island-to-island kayak races, fishing competitions, underwater treasure hunts and sand castle building. Activities are organised around the island, but most of the action takes place at Telaga Harbor Park.",
+        "p6": "Every December, the Langkawi Craft Complex hosts the Langkawi Craft Festival. It gives retail space to local businesses for showcasing and selling local arts and crafts. Items can include batik prints on silk as well as silverware, wood and paper crafts",
+        "fig2": " Statue of reddish brown Helang (eagle in english) which symbolise the name of Langkawi",
+        "fig3": "Picture of Langkawi Sky Bridge",
+        "h24": "How to Get There",
+        "p7": "You can easily reach Langkawi by air, ferry and cruises from various places within and outside Malaysia.",
+        "h31": "1. Train",
+        "p8": "Travelling by train from Kuala Lumpur to Langkawi is the most cost-effective mode of transportation, despite the lengthy journey. If you want to take this journey, you can take a train from Kuala Lumpur to Alor Setar. This journey will take around 4 hours and 28 minutes. From Alor Setar, you must take a bus or taxi to the ferry terminals at Kuala Kedah. This journey will take approximately 1 hour and 30 minutes. Once in Kuala Kedah or Kuala Perlis, board a ferry to Langkawi.",
+        "fig4": "Electric Train Service (ETS) from Kuala Lumpur Central to Alor Setar",
+        "h32": "2. Ferry",
+        "p9": "For your information, there isn't a direct ferry service from Kuala Lumpur to Langkawi. Langkawi is an island located off the northwest coast of Peninsular Malaysia, and ferry services usually depart from mainland ports rather than Kuala Lumpur",
+        "fig5": "Sea's routes from Kuala Kedah Port to Langkawi",
+        "fig6": "Ferry and boat service to Langkawi",
+        "p10": "To reach mainland ferry terminals such as Kuala Kedah or Kuala Perlis, you can drive, take a bus, or train. The ferry journey takes approximately 1.5 to 2 hours, offering scenic views of the Andaman Sea.",
+        "h33": "3. Bus",
+        "p11": "From Kuala Lumpur, take a long-distance bus to either Kuala Perlis or Alor Setar. The trip could take 5 to 6 hours depending on the exact route and traffic. Once in Kuala Perlis or Alor Setar, you may need to take a cab or local transit to the ferry terminals. In this situation, you will be travelling to the ferry terminals that link with Langkawi.",
+        "fig7": "Bus at the Terminal Bersepadu Selatan (TBS)",
+        "h34": "4. Flights",
+        "p12": "A flight to Langkawi from KL is a convenient and popular option. Multiple airlines operate direct flights from KLIA to Langkawi. Some of the major airlines serving this route include Malaysia Airlines, AirAsia, Batik Air Malaysia, and Firefly. The flight from KLIA to Langkawi International Airport takes roughly 1.5 to 2 hours.",
+        "fig8": "Airplane route from Sultan Abdul Aziz Shah Airport(SZA) to theLangkawi International Airport (LGK)",
+        "fig9": "Malaysia Airline (MAS) flight to Langkawi"
+      },
+      "navbar":{
+        "content1":"Langkawi Location",
+        "content2":"Best Time to Visit",
+        "content3":"How to Get There"
+      }
+    }
+  },
+  "culture": {}
+}

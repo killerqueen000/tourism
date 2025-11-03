@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+
+.playout-container {
+  display: flex;
+  font-family: "Montserrat";
+  letter-spacing: 2px;
+  height: 100%;
+}
+
+.psidebar {
+  height: 100%;
+  background-color: #f8f9fc;
+  border-right: 1px solid #ccc;
+  z-index: 2;
+}
+
+.pmenuicon {
+  color: #524949;
+  font-size: 2.5rem;
+  margin-top: 30px;
+  padding: 30px;
+  padding-bottom: 0;
+}
+
+.pmenu {
+  width: 100%;
+}
+
+.pmenuitem {
+  display: flex;
+  cursor: pointer;
+  flex-direction: column;
+}
+
+.pmenuitem span {
+  color: #524949;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.custom-drawer {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 0;
+  transition: width 0.3s ease;
+  background-color: #ffffff;
+  border-left: 1px solid #ddd;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.05);
+  overflow: hidden;
+  z-index: 1;
+}
+
+.custom-drawer.open {
+  width: 300px;
+  height: 100%;
+}
+
+
+.drawer-content {
+  flex: 1;
+  overflow-y: auto;
+  padding: 16px;
+}
+
+
+.drawer-header {
+  flex-shrink: 0;
+  padding: 16px;
+  background-color: #524949;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #ccc;
+}
+
+
+.drawer-header button {
+  background: none;
+  border: solid 1px #524949;
+  border-radius: 20px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.drawer-content {
+  padding: 16px;
+}

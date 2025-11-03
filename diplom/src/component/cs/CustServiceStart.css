@@ -1,0 +1,88 @@
+.cs-start-layout {
+  position: absolute;
+  width: 480px;
+  height: 600px;
+  background-color: #d9d9d9;
+  color: #574242;
+  border-radius: 10px;
+  z-index: 1000;
+  top: 0%;
+  margin-top: 30px;
+}
+
+.cs-start-header {
+  display: flex;
+  justify-content: end;
+  background-image: url("/assets/1.jpg");
+  width: 100%;
+  height: 7.5vh;
+}
+
+.cs-start-header button {
+  border: none;
+  background-color: transparent;
+  transition: transform 0.3s ease, background-color 0.3s ease;
+  border-radius: 50%;
+}
+
+.cs-start-header button:hover {
+  transform: scale(1.05);
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
+.cs-start-context {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  text-align: center;
+  font-family: "Montserrat";
+  justify-content: center;
+}
+
+.cs-start-context img {
+  width: 130px;
+  padding: 5px;
+  margin: auto;
+}
+.cs-start-context h2 {
+  font-weight: 480;
+  margin: 0%;
+  padding: 5px;
+}
+
+.cs-start-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cs-start-input {
+  width: 75%;
+  height: 35px;
+  margin: 5px 0;
+  background-color: #f1f1ef;
+  border: none;
+  border: solid 1.6px #574242;
+  font-family: "Montserrat";
+  letter-spacing: 1px;
+  color: black;
+  border-radius: 5px;
+}
+
+.cs-start-context button {
+  width: 75%;
+  height: 45px;
+  margin: 10px 0;
+  background-color: #574242;
+  border-radius: 10px;
+  color: white;
+  font-family: "Montserrat";
+  letter-spacing: 4px;
+  font-weight: 300;
+  transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.cs-start-context button:hover {
+  transform: scale(1.05);
+  background-color: #634c4c;
+}

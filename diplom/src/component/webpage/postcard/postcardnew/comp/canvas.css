@@ -1,0 +1,123 @@
+.canvas-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: auto;
+  margin-bottom: 100px;
+}
+
+.canvas-side {
+  margin: 20px 0;
+  background: white;
+  position: relative;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+.canvas-bg {
+  width: 100%;
+  object-fit: cover;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+.canvas-item {
+  position: absolute;
+  cursor: move;
+  border: 1px dashed transparent;
+}
+
+.canvas-item.selected {
+  border-color: #3498db;
+}
+
+.canvas-text {
+  background: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 4px;
+  position: absolute;
+  cursor: text;
+  border: 1px dashed transparent;
+}
+
+.canvas-text.selected {
+  border-color: #3498db;
+}
+
+.delete-button {
+  position: absolute;
+  top: -30px;
+  right: -30px;
+  width: 24px;
+  height: 24px;
+  background: white;
+  color: black;
+  border-radius: 50%;
+  border: 1px solid grey;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  z-index: 10;
+  padding: 0%;
+  margin: 0;
+}
+
+.rotation-handle {
+  position: absolute;
+  bottom: -50px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 10px;
+  height: 10px;
+  background: white;
+  border: 1px solid grey;
+  border-radius: 50%;
+  cursor: grab;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 7px;
+}
+
+.rotation-icon {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  pointer-events: none;
+}
+
+.draggable-container {
+  position: absolute;
+  display: inline-block;
+  width:fit-content;
+  height: fit-content;
+}
+
+.draggable-container.selected {
+  border: 1px solid #45247a;
+
+}
+
+.layer-controls {
+  position: absolute;
+  position: flex;
+  flex-direction: column;
+  transform: translateX(-150%);
+  display: flex;
+  gap: 6px;
+  top: 1px;
+}
+
+.layer-controls button {
+  background: #8a3225;
+  border: none;
+  padding: 4px 1px;
+  font-size: 14px;
+  cursor: pointer;
+  border-radius: 4px;
+  margin: 0%;
+  width: 20px;
+  height: max-content;
+}

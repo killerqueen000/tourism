@@ -1,0 +1,29 @@
+.contact-container {
+  width: 100vw;
+  height: auto;
+  background: #d9d9d9;
+  overflow-x: hidden;
+  font-family: 'Montserrat';
+  letter-spacing: 2px;
+}
+
+.contact-us {
+    padding-top: 150px ;
+}
+
+.contact-us h1 {
+    color: black;
+    font-weight: 550;
+}
+
+.contact-address,
+.contact-phone,
+.contact-email {
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+    align-items: center;
+    gap: 10px;
+    color: black;
+    padding-left: 20px ;
+}

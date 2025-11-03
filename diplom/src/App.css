@@ -1,0 +1,27 @@
+.app-container {
+    display: flex;
+  }
+  
+  .main-content {
+    flex-grow: 1;
+    padding: 24px;
+    background-color: #fff;
+    min-height: 100vh;
+  }
+  
+  /* Animation for content panel */
+  .slide-in {
+    animation: slideFadeIn 0.3s ease forwards;
+  }
+  
+  @keyframes slideFadeIn {
+    from {
+      transform: translateX(20px);
+      opacity: 0;
+    }
+    to {
+      transform: translateX(0);
+      opacity: 1;
+    }
+  }
+  

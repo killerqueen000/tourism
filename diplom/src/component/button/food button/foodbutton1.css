@@ -1,0 +1,37 @@
+.food-button-container{
+    width: 100vw;
+    height: auto;
+    display: flex;
+    align-items: center;
+    border: none;
+    margin: none;
+    padding: 0;
+    border-radius: 0%;
+    justify-content: space-between;
+
+}
+
+.button-desc{
+    width: 30%;
+    height: 30%;
+    text-align: center;
+    justify-content: center;
+    font-family: Montserrat;
+    letter-spacing: 3px;
+    line-height: 45px;
+    box-sizing: border-box;
+    margin: auto;
+    font-size: 25px;
+}
+
+.button-desc h3 {
+    margin: 40px;
+}
+
+.food-img {
+    right: 0;
+}
+
+.food-img img{
+    width: 50vw;
+}

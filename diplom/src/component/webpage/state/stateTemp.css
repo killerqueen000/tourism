@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat Alternates");
+@import url("https://fonts.googleapis.com/css?family=Limelight");
+
+.perlis-container {
+  width: 100vw;
+  height: auto;
+  background-color: #d9d9d9;
+  color: black;
+  overflow-x: hidden;
+}
+
+.perlis-vid {
+  width: 100vw;
+  background-color: black;
+  height: fit-content;
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+}
+
+.perlis-vid video {
+  width: auto;
+  height: 550px;
+}
+
+
+.perlis-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.perlis-text {
+  padding: 0 50px;
+  font-family: "Montserrat";
+  letter-spacing: 1px;
+  flex: 2;
+}
+
+.perlis-text p {
+  width: 70%;
+  text-indent: 50px;
+  justify-self: center;
+}
+
+.perlis-container h2 {
+  width: 80%;
+  font-family: "Montserrat Alternates";
+  font-size: 35px;
+  padding: 20px 50px;
+  letter-spacing: 1px;
+  text-align: center;
+  justify-self: center;
+}
+
+.perlis-map {
+  padding: 60px 0;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.perlis-ani {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-family: "Limelight";
+  margin-bottom: 20px;
+}
+
+.vacay-wrapper {
+  width: 200px;
+}
+
+.vacay-wrapper canvas {
+  width: 100% !important;
+  height: 100% !important;
+}
+.perlis-carousel {
+}

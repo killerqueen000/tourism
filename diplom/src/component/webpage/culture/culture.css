@@ -1,0 +1,59 @@
+.culture-container {
+  width: 100vw;
+  height: auto;
+  background: #d9d9d9;
+  overflow-x: hidden;
+  font-family: "Montserrat";
+}
+
+.culture-container-2 {
+  margin-top: 200px;
+}
+
+.cultureHeader {
+  position: fixed;
+  top: 0%;
+  z-index: 10;
+  background-color: rgba(255, 255, 255, 0.2); /* translucent background */
+  backdrop-filter: blur(12px); /* blur the background behind */
+  -webkit-backdrop-filter: blur(12px); /* Safari support */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  transition: background-color 0.3s ease, backdrop-filter 0.3s ease;
+}
+
+.culture-text-1 {
+  width: 100vw;
+  font-family: Montserrat;
+  letter-spacing: 5px;
+  color: black;
+  padding: 40px 0;
+  font-size: 20px;
+}
+
+.culture-text-1 h2 {
+  color: black;
+  text-align: center;
+  margin: auto;
+  padding-bottom: 30px;
+}
+
+.culture-text-1 p {
+  width: 40%;
+  color: black;
+  text-align: center;
+  margin: auto;
+  line-height: 2;
+}
+
+.culture-text-2 {
+  width: 80vw;
+  text-indent: 5rem;
+  color: black;
+  text-align: center;
+  margin: auto;
+  font-family: "Montserrat";
+  padding: 40px 0;
+  font-size: 1.25rem;
+  line-height: 2;
+  letter-spacing: 3px;
+}

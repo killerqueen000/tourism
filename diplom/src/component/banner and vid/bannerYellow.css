@@ -1,0 +1,31 @@
+.container-yellow {
+  width: 100vw;
+  background-color: #ffd039;
+  display: flex;
+  padding: 20px 0;
+}
+
+.flag-thumbnail {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.text-1 {
+  font-family: Montserrat;
+  color: #73460e;
+  width: 60%;
+}
+
+.text-1 h1 {
+  font-weight: 200;
+  letter-spacing: 3px;
+}
+
+.text-1 p {
+  width: 80%;
+}
+
+.slide-content {
+  justify-content: center;
+}

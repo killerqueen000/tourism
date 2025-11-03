@@ -1,0 +1,134 @@
+.operator-layout {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  font-family: "Montserrat", sans-serif;
+  color: black;
+}
+
+.operator-header {
+  background-color: white;
+  padding: 15px 30px;
+  border-bottom: 1px solid #ddd;
+}
+
+.operator-header h2 {
+  font-family: "Montserrat", sans-serif;
+  letter-spacing: 2px;
+  background: linear-gradient(90deg, rgb(139, 90, 174), rgb(193, 39, 65));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 700;
+}
+
+.operator-body {
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+}
+
+.operator-select-user {
+  width: 250px;
+  background-color: #fff;
+  border-right: 1px solid #ccc;
+  padding: 20px;
+  overflow-y: auto;
+}
+
+.operator-select-user h3 {
+  margin-bottom: 15px;
+}
+
+.operator-select-user ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.operator-select-user li {
+  padding: 10px;
+  cursor: pointer;
+  border-bottom: 1px solid #eee;
+  transition: 0.2s;
+}
+
+.operator-select-user li.active {
+  background-color: #007bff;
+  color: white;
+}
+
+.operator-select-user li:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.oprator-chat-ares {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  background-color: rgb(234, 229, 229);
+}
+
+.operator-chat {
+  flex: 1;
+  overflow-y: auto;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.chat-bubble {
+  max-width: 60%;
+  padding: 10px 14px;
+  margin: 6px 0;
+  border-radius: 15px;
+  font-size: 0.95rem;
+}
+
+.chat-left {
+  background-color: #f1f1f1;
+  justify-self: flex-start;
+}
+
+.chat-right {
+  background-color: #36d8ff;
+  color: black;
+  justify-self: flex-end;
+}
+
+.operator-chat-input {
+  display: flex;
+  gap: 10px;
+}
+
+.operator-chat-input input {
+  flex: 1;
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  background-color: white;
+  color: black;
+}
+
+.operator-chat-input button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.chat-status {
+  font-size: 0.85em;
+  padding-left: 8px;
+  color: gray;
+  text-transform: uppercase;
+}
+
+.chat-status.open {
+  color: green;
+}
+
+.chat-status.close {
+  color: red;
+}

@@ -1,0 +1,161 @@
+[id] {
+  scroll-margin-top: 150px;
+}
+
+.langkawi-container {
+  width: 100vw;
+  height: auto;
+  background: #d9d9d9;
+}
+
+.langkawi-side-bar {
+  position: sticky;
+  margin: 0%;
+  top: 200px;
+
+  flex: 1;
+  width: 20vw;
+  background-color: white;
+  border-radius: 20px;
+  height: fit-content;
+  color: black;
+  align-content: center;
+  display: flex;
+
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Montserrat;
+}
+
+.langkawiMalaysiaHeader {
+  position: fixed;
+  top: 0%;
+  z-index: 10;
+  background-color: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  transition: background-color 0.3s ease, backdrop-filter 0.3s ease;
+}
+
+.langkawi-text-1 {
+  width: 100vw;
+  height: auto;
+  font-family: 'Montserrat';
+  letter-spacing: 5px;
+  padding: 40px 0;
+  font-size: 20px;
+}
+
+.langkawi-text-1 h2 {
+  color: black;
+  text-align: center;
+  font-weight: 500;
+  margin: auto;
+  padding: 30px 10px;
+
+}
+
+.langkawi-article {
+  display: flex;
+  width: 85vw;
+  gap: 40px;
+  padding: 0 5vw;
+  box-sizing: border-box;
+  font-family: montserrat;
+  letter-spacing: 3px;
+  font-size: 20px;
+  margin: auto;
+}
+
+.langkawi-main-article {
+  flex: 3;
+  color: black;
+}
+
+.langkawi-main-article p {
+  text-indent: 50px;
+  margin-bottom: 20px;
+}
+
+.langkawi-main-article h2 {
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.langkawi-main-article h3 {
+  font-size: 25px;
+}
+
+.langkawi-main-article img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.langkawi-main-article figcaption {
+  text-align: center;
+  padding-bottom: 5px;
+  font-size: 18px;
+  color: black;
+  width: 80%;
+  margin: auto;
+}
+
+.langkawi-main-article figure {
+  justify-content: center;
+  margin: auto;
+}
+
+.langkawi-video {
+  position: relative;
+  width: 100vw;
+  height: auto;
+}
+
+.langkawi-video video {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.video-overlay {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 48px;
+  font-weight: bold;
+  text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.7);
+  z-index: 2;
+  text-align: center;
+  width: 100%;
+}
+
+.video-overlay h2 {
+  font-family: Montserrat;
+  letter-spacing: 40px;
+  animation-delay: 4s;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.video-overlay h2,
+.video-overlay hr {
+  opacity: 0;
+  animation: fadeIn 1.5s ease-out forwards;
+}
+.video-overlay hr {
+  animation-delay: 2s;
+}

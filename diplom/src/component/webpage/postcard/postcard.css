@@ -1,0 +1,101 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat Alternates");
+
+.postcard-container {
+  width: 100vw;
+  height: auto;
+  background: #d9d9d9;
+  overflow-x: hidden;
+}
+
+.postcardHeader {
+  position: fixed;
+  top: 0%;
+  z-index: 10;
+  background-color: rgba(255, 255, 255, 0.2); /* translucent background */
+  backdrop-filter: blur(12px); /* blur the background behind */
+  -webkit-backdrop-filter: blur(12px); /* Safari support */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  transition: background-color 0.3s ease, backdrop-filter 0.3s ease;
+}
+
+.postcard-background {
+  width: 100vw;
+  height: fit-content;
+  background-color: #8a3225;
+  display: flex;
+  flex-direction: column;
+}
+
+.postcard-text-1 {
+  font-family: "Montserrat Alternates";
+  letter-spacing: 3px;
+  font-size: 40px;
+  padding: 0 50px;
+  width: 80vw;
+}
+
+.postcard-button-img-wrap {
+  display: flex;
+  gap: 60px;
+}
+
+.postcard-button {
+  padding-left: 50px;
+}
+
+.postcard-button button {
+  height: fit-content;
+  width: 200px;
+  letter-spacing: 10px;
+  border-radius: 25px;
+  background-color: #d9d9d9;
+  color: #8a3225;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  transform: scale(1);
+  font-family: "Montserrat";
+  transition: transform 0.3s ease-out;
+}
+
+.postcard-images img:hover,
+.postcard-button button:hover {
+  transform: scale(1.1);
+}
+
+.postcard-button-img-wrap img {
+  width: 60vw;
+  height: auto;
+  flex: 2;
+  padding-right: 100px;
+}
+
+.postcard-container-2 {
+  width: 100vw;
+  height: auto;
+  background-color: #d9d9d9;
+}
+
+.choose-design {
+  display: flex;
+  flex-direction: row;
+  padding: 40px;
+  background-color: #606384;
+  border-radius: 20px;
+  margin: auto;
+}
+
+.postcard-images img {
+  width: 17vw;
+  margin: 50px;
+  box-shadow: -12px 12px 1px rgba(0, 0, 0, 0.2);
+  transform: scale(1);
+  transition: transform 0.3s ease-out;
+}
+
+.postcard-choose-design {
+  display: flex;
+  flex-direction: row;
+  margin-top: 150px;
+  justify-content: center;
+}

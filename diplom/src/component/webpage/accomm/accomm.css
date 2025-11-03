@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+.accomm-container {
+  width: 100vw;
+  height: auto;
+  background: #d9d9d9;
+  overflow-x: hidden;
+  font-family: 'Montserrat';
+}
+
+.accomm-banner {
+  width: 100vw;
+  height: auto;
+  position: relative;
+  font-size: 2rem;
+}
+
+.accomm-banner img {
+  position: relative;
+  width: 100vw;
+  z-index: 0;
+}
+
+.accomm-text-1 {
+  position: absolute;
+  padding: 10px;
+  z-index: 10;
+  bottom: 10%;
+  padding: 0 100px;
+}
+
+.accomm-text-1 h1 {
+  padding: 0%;
+  margin: 0%;
+  font-weight: 400;
+}
+
+.type-of-accomm {
+  width: 70%;
+  height: auto;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.type-of-accomm h2 {
+  font-family: Montserrat;
+  font-size: 2.5vw;
+  letter-spacing: 7px;
+  color: #333;
+  font-weight: 400;
+}
+
+.type-of-accomm p {
+  font-family: Montserrat;
+  font-size: 1vw;
+  letter-spacing: 3px;
+  color: #333;
+}

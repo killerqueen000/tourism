@@ -1,0 +1,20 @@
+.grid-section-follow-us-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 8px;
+}
+
+
+.grid-section-sns {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  margin-top: 5px; /* optional, adjust spacing */
+}
+
+.thumbnailsns img {
+  height: 32px;
+  width: 32px;
+  object-fit: contain;
+}

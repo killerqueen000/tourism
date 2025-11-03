@@ -1,0 +1,17 @@
+.landscape-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: auto;
+}
+
+.landscape-grid a {
+    
+    transform: scale(1.0);
+    transition: transform 0.3s ease-out;
+    margin: auto;
+    padding: 40px 0;
+}
+
+.landscape-grid a:hover {
+    transform: scale(1.1);
+}

@@ -1,0 +1,26 @@
+.close-button {
+  width: 50px;
+  height: 50px;
+  justify-content: center;
+  align-content: center;
+  padding: 0%;
+  margin: 0%;
+  background-color: transparent;
+  transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.close-button-icon {
+  font-size: 24px;
+  object-fit: contain;
+  color: white;
+  transition: transform color 0.3s ease;
+}
+
+.close-button:hover .close-button-icon {
+  transform: scale(1.1);
+  color: aliceblue;
+}
+
+.close-button:hover {
+  background-color: rgba(0, 0, 0, 0.3)
+}

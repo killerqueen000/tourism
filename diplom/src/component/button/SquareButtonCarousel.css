@@ -1,0 +1,38 @@
+.carousel-row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .carousel-buttons-wrapper {
+    display: flex;
+    gap: 10vw;
+    overflow: hidden;
+  }
+  
+  .carousel-arrow {
+    background-color: rgba(0, 0, 0, 0.4);
+    border: none;
+    font-size: 2rem;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    z-index: 1;
+  }
+  
+  .carousel-arrow:hover {
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+  }
+  
+  .carousel-arrow.left {
+    margin-right: 1rem;
+  }
+  
+  .carousel-arrow.right {
+    margin-left: 1rem;
+  }
+  

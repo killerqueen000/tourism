@@ -1,0 +1,13 @@
+.fc-layout {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px; /* this controls spacing between buttons */
+    align-items: center;
+    z-index: 9999;
+  }
+  
+  
+  

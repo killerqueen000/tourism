@@ -1,0 +1,62 @@
+.accom-layout {
+  width: fit-content;
+  height: fit-content;
+  background-color: #d9d9d9;
+  display: flex;
+  gap: 0;
+}
+
+.accom-right-layout button,
+.accom-left-layout button {
+  padding: 0%;
+  border: none;
+  border-color: transparent;
+  border-radius: 0%;
+  margin: 0%;
+  position: relative;
+  overflow: hidden;
+  background-color: transparent;
+  padding-inline: 0;
+  display: block;
+}
+
+.accom-right-layout button img,
+.accom-left-layout button img {
+  transition: transform 0.3s ease;
+  display: block;
+}
+
+.accom-right-layout span,
+.accom-left-layout span {
+  position: absolute;
+  bottom: 5%;
+  left: 5%;
+  font-family: "Montserrat";
+  letter-spacing: 3px;
+  font-size: 30px;
+  font-weight: 450;
+  transition: transform 0.3s ease;
+  z-index: 2;
+}
+
+.accom-left-layout button:hover img,
+.accom-right-layout button:hover img {
+  transform: scale(1.05);
+}
+
+.accom-overlay {
+  position: absolute;
+  opacity: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.3);
+  transition: opacity 0.3s ease;
+  z-index: 1;
+  top: 0;
+  left: 0;
+}
+
+.accom-left-layout button:hover .accom-overlay,
+.accom-right-layout button:hover .accom-overlay {
+  opacity: 1;
+}

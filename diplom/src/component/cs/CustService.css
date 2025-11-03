@@ -1,0 +1,112 @@
+.cs-layout{
+  width: 480px;
+  height: 600px;
+  background-color: #d9d9d9;
+  color: #574242;
+  border-radius: 10px;
+  z-index: 1000;
+  top: 0%;
+  overflow: hidden;
+}
+
+.cs-header {
+  display: flex;
+  width: 100%;
+  font-family: "Montserrat";
+  letter-spacing: 2px;
+  height: 7.5vh;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.cs-header button {
+  border: none;
+  background-color: transparent;
+  margin: 0%;
+  color: black;
+  transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.cs-header button,
+.cs-header span {
+  padding: 15px;
+}
+
+.cs-header button:hover {
+  transform: scale(1.05);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+.cs-chat-form {
+  width: 100%;
+  align-items: center;
+  height: 55px;
+  position: relative;
+  display: flex;
+}
+
+.cs-chat-form input {
+  flex: 1;
+  width: 100%;
+  height: 55px;
+  background-color: aliceblue;
+  border: 1px solid #ccc;
+  padding: 0 10px;
+  color: #574242;
+  overflow-x: hidden;
+  }
+
+.cs-chat-form button {
+  height: 57px;
+  width: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: aliceblue;
+  border: 1px solid #ccc;
+  cursor: pointer;
+  border-radius: 0;
+  color: black;
+  padding: 0;
+}
+
+.cs-icon {
+  width: 60%;
+  height: 60%;
+}
+
+.cs-message {
+  width: 100%;
+  height: 68.3vh;
+  flex: 1;
+  overflow-y: auto;
+}
+
+.cs-msg-bubble {
+  padding: 10px;
+  margin: 5px 10px;
+  border-radius: 8px;
+  max-width: 80%;
+  word-wrap: break-word;
+}
+
+.cs-client {
+  background-color: #d1e7ff;
+  align-self: flex-end;
+  text-align: right;
+}
+
+.cs-operator {
+  background-color: #e8e8e8;
+  align-self: flex-start;
+  text-align: left;
+}
+
+.cs-message {
+  flex: 1;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  padding: 10px 0;
+  background-color: #f5f5f5;
+}

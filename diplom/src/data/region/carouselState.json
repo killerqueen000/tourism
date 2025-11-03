@@ -1,0 +1,237 @@
+{
+  "Perlis": [
+    {
+      "images": "/assets/state/perlis/perlis1.png",
+      "h1": "5 Reason to visit Perlis Indera Kayangan",
+      "h2": " "
+    },
+    {
+      "images": "/assets/state/perlis/perlis2.png",
+      "h1": "Breathtaking Natural Scenery",
+      "h2": "Perlis is home to stunning landscapes, from rolling paddy fields and limestone hills to misty peaks like Bukit Tok Dun and Wang Kelian Viewpoint"
+    },
+    {
+      "images": "/assets/state/perlis/perlis3copy.png",
+      "h1": " Rich Cultural and Historical Heritage",
+      "h2": "Explore Kota Kayang Museum and Gua Kelam, a historic limestone cave once used by tin miners, to learn about Perlis’ deep-rooted history."
+    },
+    {
+      "images": "/assets/state/perlis/perlis4.png",
+      "h1": "Authentic Northern Malaysian Cuisine",
+      "h2": "Perlis offers unique flavors like Harumanis mangoes, the best in Malaysia, and delicious local dishes such as Ikan Bakar (grilled fish) and Pulut Mempelam (sticky rice with mango)."
+    },
+    {
+      "images": "/assets/state/perlis/perlis5.png",
+      "h1": "Off-the-Beaten-Path Charm",
+      "h2": "Unlike crowded tourist spots, Perlis offers a slow-paced, relaxing atmosphere where you can enjoy the beauty of small fishing villages, quiet beaches, and friendly locals without the rush."
+    }
+  ],
+  "Kedah": [
+    {
+      "images": "/assets/state/kedah/1.jpg",
+      "h1": "Reasons to Visit Kedah, The Rice Bowl of Malaysia",
+      "h2": ""
+    },
+    {
+      "images": "/assets/state/kedah/2.png",
+      "h1": "Lush Paddy Fields & Rural Charm",
+      "h2": "Drive through scenic countryside blanketed with golden paddy fields and experience authentic kampung life."
+    },
+    {
+      "images": "/assets/state/kedah/3.jpg",
+      "h1": "Langkawi Island Paradise",
+      "h2": "Visit the world-famous Langkawi, known for its beaches, geoparks, and the iconic Sky Bridge with panoramic views."
+    },
+    {
+      "images": "/assets/state/kedah/5.jpg",
+      "h1": "Historic Sites of Alor Setar",
+      "h2": "Discover Malaysia’s royal heritage at Zahir Mosque, Balai Besar, and the Sultan Abdul Halim Muadzam Shah Gallery"
+    }
+  ],
+  "Johor": [
+    {
+      "images": "/assets/state/johor/1.jpg",
+      "h1": "Why You Should Visit Johor",
+      "h2": ""
+    },
+    {
+      "images": "/assets/state/johor/2.png",
+      "h1": "Fun-Filled Days at LEGOLAND® Malaysia",
+      "h2": "This internationally loved theme park in Johor Bahru promises a day of interactive fun, water rides, and colorful adventures for families and kids."
+    },
+    {
+      "images": "/assets/state/johor/3.png",
+      "h1": "Blend of Tradition and Culture",
+      "h2": "Visit majestic sites like the Sultan Abu Bakar Mosque and experience the cultural richness of Johor through heritage buildings, museums, and traditional crafts."
+    },
+    {
+      "images": "/assets/state/johor/4.jpg",
+      "h1": "Unique Johorean Flavors",
+      "h2": "Feast on local favorites like Laksa Johor and Kacang Pool—flavorful dishes that represent the region’s distinctive food culture."
+    }
+  ],
+  "Kelantan": [
+    {
+      "images": "/assets/state/kelantan/1.jpg",
+      "h1": "Reasons to Visit Kelantan",
+      "h2": ""
+    },
+    {
+      "images": "/assets/state/kelantan/2.jpg",
+      "h1": "Traditional Arts and Crafts",
+      "h2": "Watch wayang kulit, wau (kite) making, and batik painting, preserving Kelantan's cultural soul."
+    },
+    {
+      "images": "/assets/state/kelantan/3.jpg",
+      "h1": "Siti Khadijah Market Experience",
+      "h2": "Dive into a bustling market run mostly by women, selling everything from spices to local snacks."
+    },
+    {
+      "images": "/assets/state/kelantan/4.jpg",
+      "h1": "Islamic and Malay Heritage",
+      "h2": "Explore graceful architecture at Masjid Muhammadi and the Islamic Museum of Kelantan."
+    }
+  ],
+  "Kl": [
+    {
+      "images": "/assets/state/kl/1.jpg",
+      "h1": "Why Visit Kuala Lumpur",
+      "h2": ""
+    },
+    {
+      "images": "/assets/state/kl/22.jpg",
+      "h1": "Iconic Landmarks and Skyscrapers",
+      "h2": "Marvel at the Petronas Twin Towers, KL Tower, and the futuristic skyline of Malaysia’s capital."
+    },
+    {
+      "images": "/assets/state/kl/3.jpg",
+      "h1": "Street Food and Night Markets",
+      "h2": "Try delicious eats at Jalan Alor, Kampung Baru, and the famous Ramly burger stands."
+    },
+    {
+      "images": "/assets/state/kl/4.jpg",
+      "h1": "Cultural Fusion and Diversity",
+      "h2": "Visit Chinatown, Little India, and Islamic Arts Museum for a rich multicultural experience."
+    }
+  ],
+  "Melaka": [
+    {
+      "images": "/assets/state/melaka/1.jpg",
+      "h1": "Why Explore Melaka",
+      "h2": ""
+    },
+    {
+      "images": "/assets/state/melaka/2.jpg",
+      "h1": "UNESCO World Heritage History",
+      "h2": "Walk through colonial relics like A Famosa, Dutch Square, and St. Paul’s Hill."
+    },
+    {
+      "images": "/assets/state/melaka/3.jpg",
+      "h1": "Charming Melaka River Cruise",
+      "h2": "Glide through the heart of the city on a relaxing river cruise filled with lights and murals."
+    },
+    {
+      "images": "/assets/state/melaka/4.jpg",
+      "h1": "Jonker Street Vibes",
+      "h2": "Browse quirky shops, antique stores, and food stalls at Melaka’s most vibrant night market."
+    }
+  ],
+  "Pahang": [
+    {
+      "images": "/assets/state/pahang/1.jpeg",
+      "h1": "Why You Should Visit Pahang",
+      "h2": ""
+    },
+    {
+      "images": "/assets/state/pahang/2.jpg",
+      "h1": "Refreshing Escapes to Cameron Highlands",
+      "h2": "Cool weather, tea plantations, strawberry farms, and English-style cottages make this a perfect hill retreat."
+    },
+    {
+      "images": "/assets/state/pahang/3.jpg",
+      "h1": "Adventure in Taman Negara",
+      "h2": "Explore Malaysia’s oldest rainforest with canopy walks, river safaris, and jungle trekking."
+    },
+    {
+      "images": "/assets/state/pahang/4.jpg",
+      "h1": "Sun & Sand at Cherating and Tioman",
+      "h2": "Enjoy pristine beaches, surfing, and turtle conservation activities along Pahang’s coastline."
+    }
+  ],
+  "Perak": [
+    {
+      "images": "/assets/state/perak/1.jpg",
+      "h1": "Top Reasons to Visit Perak",
+      "h2": ""
+    },
+    {
+      "images": "/assets/state/perak/2.jpg",
+      "h1": "Royal Heritage of Kuala Kangsar",
+      "h2": "Explore the Ubudiah Mosque, Istana Kenangan, and royal museums that showcase the legacy of Malaysia’s royal traditions."
+    },
+    {
+      "images": "/assets/state/perak/3.jpg",
+      "h1": "Nature and Adventure at Gopeng",
+      "h2": "Go white-water rafting, caving in Gua Tempurung, or zip-lining through the lush forests of Perak’s adventure capital."
+    },
+    {
+      "images": "/assets/state/perak/4.jpg",
+      "h1": "The Charm of Ipoh Old Town",
+      "h2": "Wander through colonial buildings, trendy cafés, and street art while enjoying famous local dishes like Ipoh white coffee and bean sprout chicken."
+    },
+    {
+      "images": "/assets/state/perak/5.jpg",
+      "h1": "Relaxing Retreats at Pangkor Island",
+      "h2": "Unwind on quiet beaches, snorkel in crystal-clear waters, and enjoy a laid-back island lifestyle at Pangkor."
+    }
+  ],
+  "Penang": [
+    {
+      "images": "/assets/state/penang/1.jpg",
+      "h1": "Top Reasons to Explore Penang",
+      "h2": ""
+    },
+    {
+      "images": "/assets/state/penang/22.jpg",
+      "h1": "World-Famous Street Food",
+      "h2": "Taste iconic dishes like Char Kway Teow, Penang Laksa, and Nasi Kandar in the culinary capital of Malaysia."
+    },
+    {
+      "images": "/assets/state/penang/3.jpg",
+      "h1": "UNESCO George Town Heritage",
+      "h2": "Wander through colorful murals, colonial buildings, and unique street art in George Town’s historic district."
+    },
+    {
+      "images": "/assets/state/penang/4.jpg",
+      "h1": "Stunning Coastlines and Hills",
+      "h2": "Relax on Batu Ferringhi beach or hike through Penang National Park and Penang Hill."
+    },
+    {
+      "images": "/assets/state/penang/5.jpg",
+      "h1": "Fusion of Cultures and Religions",
+      "h2": "Experience diverse traditions at Kek Lok Si Temple, Kapitan Keling Mosque, and Sri Mahamariamman Temple."
+    }
+  ],
+  "Putrajaya":[
+    {
+    "images": "/assets/state/putrajaya/1.jpg",
+    "h1": "Reasons to Discover Putrajaya",
+    "h2": ""
+  },
+  {
+    "images": "/assets/state/putrajaya/2.jpg",
+    "h1": "Stunning Modern Islamic Architecture",
+    "h2": "Admire landmarks like the pink-domed Putra Mosque and the futuristic Tuanku Mizan Zainal Abidin Mosque (Iron Mosque), set against scenic lakes."
+  },
+  {
+    "images": "/assets/state/putrajaya/3.jpg",
+    "h1": "Picturesque Bridges and Lakeside Views",
+    "h2": "Take a boat cruise or stroll along the many elegant bridges—Seri Wawasan and Seri Gemilang—for beautiful sunset views."
+  },
+  {
+    "images": "/assets/state/putrajaya/4.jpg",
+    "h1": "Peaceful Green Spaces and Gardens",
+    "h2": "Relax at Taman Botani and Taman Wetland, perfect for cycling, bird-watching, or just escaping the city’s hustle."
+  }
+  ]
+}

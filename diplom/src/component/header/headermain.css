@@ -1,0 +1,160 @@
+@import url(https://fonts.googleapis.com/css?family=ABeeZee);
+
+.fixed-postion-header {
+  position: fixed;
+  top: 0;
+  z-index: 500;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.4);
+  backdrop-filter: blur(6px);
+}
+
+.header-grid {
+  position: relative;
+  width: 100vw;
+  height: auto;
+}
+
+.header-row-1 {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.mta-logo {
+  width: 130px;
+  height: auto;
+}
+
+/* Left and right groups */
+.left-group,
+.right-group {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  font-family: "ABeeZee", sans-serif;
+}
+
+/* Centered nav */
+.center-nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0; /* prevents shrinking */
+}
+
+/* Contact Us button */
+.contact-us-button {
+  display: inline-flex;
+  align-items: center;
+  font-size: 15px;
+  letter-spacing: 0.5px;
+  border-radius: 50px;
+  background-color: rgba(0, 0, 0, 0.38);
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+.contact-us-button img {
+  padding: 0 2px;
+}
+
+/* Nav bar 1 */
+.nav-bar-1 {
+  display: flex;
+  align-items: center;
+  border-radius: 50px;
+  background-color: rgba(255, 255, 255, 0.38);
+  padding: 6px 20px;
+}
+
+.nav-list-1 {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-list-1 li {
+  margin: 0;
+  padding: 0;
+}
+
+.nav-list-1 button {
+  display: inline-flex;
+  align-items: center;
+  background: none;
+  border: none;
+  font-size: 15px;
+  color: white;
+  cursor: pointer;
+  transition: color 0.5s ease;
+  cursor: pointer;
+}
+
+.nav-list-1 button:hover {
+  color: black;
+}
+
+/* Nav bar 2 */
+.nav-bar-2 {
+  display: inline-flex;
+  align-items: center;
+  border-radius: 50px;
+  background-color: rgba(0, 0, 0, 0.38);
+  padding: 6px 20px;
+}
+
+.nav-list-2 {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-list-2 li {
+  margin: 0;
+  padding: 0;
+}
+
+.nav-list-2 button {
+  display: inline-flex;
+  align-items: center;
+  background: none;
+  border: none;
+  font-size: 15px;
+  color: white;
+  cursor: pointer;
+}
+
+.header-row-2 {
+  display: flex;
+  justify-content: end;
+  padding: 1px 25px;
+  box-sizing: border-box;
+  padding-bottom: 20px;
+}
+
+.weather-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  background-color: rgba(255, 255, 255, 0.38);
+  padding: 6px 20px;
+  border-radius: 999px;
+  font-family: "ABeeZee", sans-serif;
+  font-size: 16px;
+  color: white;
+}
+
+.weather-icon {
+  width: 25px;
+  height: 25px;
+}

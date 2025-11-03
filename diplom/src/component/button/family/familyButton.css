@@ -1,0 +1,52 @@
+.Family-button {
+  width: 25vw;
+  height: auto;
+  border: none;
+  border-radius: 0;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  position: relative;
+  overflow: hidden;
+}
+
+.f-enlarge {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+.family-img {
+  width: 100%;
+  height: auto;
+  transition: transform 0.3s ease-in-out;
+  display: block;
+}
+
+.Family-button:hover .family-img {
+  transform: scale(1.1);
+}
+
+.overlayf {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.4);
+  z-index: 1;
+  pointer-events: none;
+}
+
+.family-txt {
+  position: absolute;
+  bottom: 45%;
+  width: 100%;
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 25px;
+  color: white;
+  z-index: 2;
+  pointer-events: none;
+}

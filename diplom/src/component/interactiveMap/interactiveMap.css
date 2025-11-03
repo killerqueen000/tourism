@@ -1,0 +1,58 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
+.map-wrapper {
+  display: flex;
+  height: 450px;
+  width: 100vw;
+  background-color:black;
+  color: white;
+  padding: 20px;
+  box-sizing: border-box;
+
+  
+}
+
+.map-info {
+  flex: 1;
+  padding: 20px;
+  font-family: montserrat;
+  font-style: italic;
+}
+
+.map-info h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.svg-map {
+  flex: 2;
+  height: 100%;
+  width: 100%;
+}
+
+.state-path {
+  fill: black;
+  stroke: white;
+  stroke-width: 0.5;
+  cursor: pointer;
+  transition: fill 0.2s ease;
+}
+
+.state-path:hover {
+  fill: #3498db;
+}
+
+.state-path.selected {
+  fill: black;
+}
+
+.custom-tooltip {
+  background-color: black;
+  color: #fff;
+  padding: 8px;
+  border-style: dashed;
+  border-width: auto;
+  border-radius: 6px;
+  border-color:white;
+  z-Index: 9999;
+}

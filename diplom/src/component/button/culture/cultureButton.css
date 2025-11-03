@@ -1,0 +1,47 @@
+.culture-button {
+    width: 100vw;
+    height: auto;
+    border: none;
+    border-radius: 0;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .culture-button img {
+    width: 100vw;
+    display: block;
+    position: relative;
+    z-index: 0;
+    transition: transform 0.5s ease-in-out;
+  }
+
+  .culture-button:hover .background-img {
+    transform: scale(1.05);
+  }
+  
+  .txt {
+    position: absolute;
+    width: 55vw;
+    font-family: 'Montserrat';
+    font-size: 25px;
+    z-index: 10; 
+    bottom: 0;
+    padding: 10px 80px;
+    text-align: left;
+    color: white;
+    letter-spacing: 3px;
+  }
+  
+  .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.4); 
+    z-index: 1; 
+  }
+  

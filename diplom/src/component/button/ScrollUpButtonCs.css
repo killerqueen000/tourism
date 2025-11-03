@@ -1,0 +1,40 @@
+.cs-button {
+  display: flex;
+  border-radius: 50px;
+  width: 60px;
+  height: 60px;
+  background-color: #c08d8d;
+  transition: background-color 0.3s ease-out, transform 0.3s ease-out;
+  object-fit: contain;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  transform: scale(1);
+}
+
+.cs-button:hover {
+  background-color: #e0b1b1;
+  transform: scale(1.1);
+}
+
+.cs-button img {
+  width: 40px;
+  height: auto;
+  object-fit: contain;
+}
+
+.cs-modal-overlay {
+  position: fixed;
+  top: 40px;
+  transform: translateY(-100%);
+  right: 0;
+  width: 100vw;
+  height: 100vh;
+  backdrop-filter: blur(2px);
+  background-color: rgba(0, 0, 0, 0.4);
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  padding-right: 40px;
+}

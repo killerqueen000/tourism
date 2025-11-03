@@ -1,0 +1,38 @@
+.calendar-modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.4);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.calendar-modal-content {
+  position: relative;
+  width: fit-content;
+  height: fit-content;
+  overflow: auto;
+  border-radius: 10px;
+  position: relative;
+  z-index: 1000;
+}
+
+.calendar-close-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.calendar-close-button {
+  position: absolute;
+  top: 10px;
+  right: 0;
+  z-index: 1002;
+}
+
+
+

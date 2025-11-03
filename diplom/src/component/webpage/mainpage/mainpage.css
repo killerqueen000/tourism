@@ -1,0 +1,136 @@
+@import url("https://fonts.googleapis.com/css?family=Limelight");
+
+.mainpage-container {
+  width: 100vw;
+  height: auto;
+  background: #d9d9d9;
+  overflow: hidden;
+}
+
+.carousel-1 {
+  position: relative;
+  z-index: 1;
+}
+
+.button1,
+.button2,
+.button3 {
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+.button1 span,
+.button2 span,
+.button3 span {
+  margin: 0;
+  font-size: 14px;
+  font-weight: 500;
+  color: #333;
+  text-align: center;
+}
+
+.first-button {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  color: black;
+}
+
+.map {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.text1 {
+  width: 100%;
+  font-size: 1vw;
+  text-align: center;
+  margin: 20px;
+}
+
+.text1 h1 {
+  font-family: limelight;
+  color: black;
+}
+
+.text1 p {
+  font-family: montserrat;
+  color: black;
+}
+
+.carousel-2 {
+  width: 100vw;
+  padding: 10px;
+}
+
+.Deal-package {
+  width: 70%;
+  height: auto;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Deal-package h2 {
+  font-family: Montserrat;
+  font-size: 2.5vw;
+  letter-spacing: 7px;
+  color: #333;
+  font-weight: 500;
+}
+
+.Deal-package p {
+  font-family: Montserrat;
+  font-size: 1vw;
+  letter-spacing: 3px;
+  color: #333;
+}
+
+.line {
+  width: 2px;
+  height: 100px;
+  background-color: #cd0000;
+  margin: 0 50px;
+}
+
+.text-2 {
+  width: 65%;
+  height: auto;
+  text-align: center;
+  letter-spacing: 6px;
+  font-family: Montserrat;
+  color: #574242;
+  margin: auto;
+}
+
+.text-2 h2 {
+  font-weight: 700;
+  font: 30px;
+}
+
+.bottom-button {
+  position: fixed;
+  display: flex;
+  top: calc(100% - 40px);
+  transform: translateY(-100%);
+  z-index: 500;
+  align-items: center;
+  width: 100vw;
+}
+
+.scroll-button-cs {
+  position: fixed;
+  right: 2%;
+}
+
+.scroll-up-button-container {
+  position: fixed;
+  right: 50%; 
+}

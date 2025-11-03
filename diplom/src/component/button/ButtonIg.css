@@ -1,0 +1,40 @@
+.thumbnail {
+    width: 100%;
+    position: relative;
+    display: block;
+
+}
+
+.thumbnail img {
+    width: 80%;
+    height: auto;
+    border:solid 15px ;
+    border-bottom: solid white 120px;
+    border-color: white;
+    border-radius: 15px;
+}
+
+.ig-bottom-layout {
+    color: black;
+    display: block;
+    position: absolute;
+    transform: translateY(-110%);
+    left: 15px;
+    font-weight: 400;
+}
+
+.ig-text {
+    width: 80%;
+    scrollbar-width: none;
+    height:50px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    padding-bottom: 8px;
+}
+
+.ig-text::-webkit-scrollbar {
+    display: none;
+}
+
+
+

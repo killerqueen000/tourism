@@ -1,0 +1,9 @@
+.shorts-grid {
+    width: 100vw;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    gap: 3vw;
+    padding: 2vw 0;
+    background-color: #BEC6CC;
+}

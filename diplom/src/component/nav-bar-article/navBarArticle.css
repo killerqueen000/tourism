@@ -1,0 +1,20 @@
+
+
+  .side-bar-content {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .side-bar-content a {
+    color: black;
+    transition: color, 0.5s ease;
+    padding: 5px 10px;
+  }
+
+  .side-bar-content a:hover {
+    color: #4E7777;
+  }
+
+  html{
+    scroll-behavior: smooth;
+  }

@@ -1,0 +1,117 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+.subscribe-box {
+  background-color: #d9d9d9; /* Tailwind's bg-gray-100 */
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  max-width: 700px;
+  width: 100%;
+  text-align: center;
+  overflow: hidden;
+}
+
+.subscribe-banner {
+  height: 64px;
+  background-image: url("/assets/1.jpg"); /* Add your banner image */
+  background-size: cover;
+  background-position: center;
+}
+
+.subscribe-content {
+  padding: 50px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.subscribe-title {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #000000;
+  font-family: Montserrat;
+  font-weight: 400;
+  letter-spacing: 2.93px;
+}
+
+.subscribe-text {
+  font-size: 0.875rem;
+  font-weight: 400;
+  font-family: Montserrat;
+  color: #574242;
+  margin-top: 8px;
+  letter-spacing: 1.46px;
+}
+
+.subscribe-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 16px;
+  color: #574242;
+}
+
+.label-wrapper {
+  width: 100%;
+  text-align: start;
+}
+
+.email-in {
+  margin-bottom: 5px;
+  font: Montserrat;
+  letter-spacing: 4px;
+}
+
+.subscribe-input {
+  padding: 15px;
+  border: 1px solid #d1d5db;
+  margin-top: 10px;
+  width: 100%;
+  text-align: start;
+  outline: none;
+  background-color: white;
+  color: #4b5563;
+  font-family: Montserrat;
+}
+
+.subscribe-input:focus {
+  border-color: #4b5563; /* Tailwind's gray-600 */
+  /*box-shadow: 0 0 4px rgba(75, 85, 99, 0.5);*/
+}
+
+.subscribe-button {
+  margin-top: 16px;
+  padding: 8px 24px;
+  background-color: #574242;
+  color: white;
+  border-radius: 22px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+  font-family: Montserrat;
+  letter-spacing: 9.91px;
+  font-weight: 400;
+  font-size: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* newsletter.css */
+.newsletter-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.newsletter-modal {
+  padding: 2rem;
+  border-radius: 8px;
+  width: fit-content;
+  max-width: fit-content;
+}
+

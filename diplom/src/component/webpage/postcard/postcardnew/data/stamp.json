@@ -1,0 +1,114 @@
+{
+  "stamps": [
+    "/assets/postcard/stamps/stamp1.png",
+    "/assets/postcard/stamps/stamp2.png",
+    "/assets/postcard/stamps/stamp3.png",
+    "/assets/postcard/stamps/stamp4.png",
+    "/assets/postcard/stamps/stamp5.png",
+    "/assets/postcard/stamps/stamp6.png",
+    "/assets/postcard/stamps/stamp7.png",
+    "/assets/postcard/stamps/stamp8.png",
+    "/assets/postcard/stamps/stamp9.png",
+    "/assets/postcard/stamps/stamp10.png",
+    "/assets/postcard/stamps/stamp11.png",
+    "/assets/postcard/stamps/stamp12.png",
+    "/assets/postcard/stamps/stamp13.png",
+    "/assets/postcard/stamps/stamp14.png"
+  ],
+
+  "stickers": [
+    {
+      "id":"sticker1",
+      "title":"sticker 1",
+      "src":"/assets/postcard/sticker/sticker1.png"
+    },
+    {
+      "id":"sticker2",
+      "title":"sticker 2",
+      "src":"/assets/postcard/sticker/sticker2.PNG"
+    },
+    {
+      "id":"sticker3",
+      "title":"sticker 3",
+      "src":"/assets/postcard/sticker/sticker3.png"
+    },
+    {
+      "id":"sticker4",
+      "title":"sticker 4",
+      "src":"/assets/postcard/sticker/sticker4.png"
+    },
+    {
+      "id":"sticker5",
+      "title":"sticker 5",
+      "src":"/assets/postcard/sticker/sticker5.png"
+    },
+    {
+      "id":"sticker6",
+      "title":"sticker 6",
+      "src":"/assets/postcard/sticker/sticker6.png"
+    },
+    {
+      "id":"sticker7",
+      "title":"sticker 7",
+      "src":"/assets/postcard/sticker/sticker7.png"
+    },
+    {
+      "id":"sticker8",
+      "title":"sticker 8",
+      "src":"/assets/postcard/sticker/sticker8.png"
+    }
+  ],
+
+  "templatesLandscape": [
+    "/assets/postcard/landscape/1.png",
+    "/assets/postcard/landscape/2.png",
+    "/assets/postcard/landscape/3.png",
+    "/assets/postcard/landscape/4.png",
+    "/assets/postcard/landscape/5.png",
+    "/assets/postcard/landscape/6.png",
+    "/assets/postcard/landscape/7.png",
+    "/assets/postcard/landscape/8.png",
+    "/assets/postcard/landscape/9.png",
+    "/assets/postcard/landscape/10.png"
+  ],
+
+  "templatesPortrait": [
+    "/assets/postcard/portrait/p1.png",
+    "/assets/postcard/portrait/p2.png",
+    "/assets/postcard/portrait/p3.png",
+    "/assets/postcard/portrait/p4.png",
+    "/assets/postcard/portrait/p5.png"
+  ],
+  "fonts": [
+    {
+      "id": "montserrat",
+      "name": "Montserrat",
+      "url": "/assets/postcard/fonts/Montserrat.ttf",
+      "category": "sans-serif"
+    },
+    {
+      "id": "cursive",
+      "name": "Cursive",
+      "url": "/assets/postcard/fonts/GreatVibes-Regular.ttf",
+      "category": "cursive"
+    },
+    {
+      "id": "BubbleGums",
+      "name": "BubbleGums",
+      "url": "/assets/postcard/fonts/BubbleGums.ttf",
+      "category": "cursive"
+    },
+    {
+      "id": "Lemynotes",
+      "name": "Lemynotes",
+      "url": "/assets/postcard/fonts/Lemynotes.ttf",
+      "category": "cursive"
+    },
+    {
+      "id": "BastligaOne",
+      "name": "BastligaOne",
+      "url": "/assets/postcard/fonts/BastligaOne.ttf",
+      "category": "cursive"
+    }
+  ]
+}

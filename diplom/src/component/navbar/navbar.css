@@ -1,0 +1,129 @@
+.p-navbar {
+  width: 100vw;
+  height: 13vh;
+  display: flex;
+  background-color: #8a3225;
+  color: black;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  font-family: "Montserrat", sans-serif;
+  box-shadow: 0 10px 5px rgba(0, 0, 0, 0.2);
+  z-index: 99;
+  letter-spacing: 2px;
+}
+
+.p-navbar-center {
+  display: flex;
+  margin: auto;
+  font-size: 24px;
+  color: white;
+  justify-content: center;
+}
+
+.p-navbar-main {
+  list-style: none;
+  display: flex;
+  padding: 0;
+  gap: 50px;
+}
+
+.p-navbar-main li {
+  position: relative;
+  cursor: pointer;
+  padding: 5px 15px;
+  transition: color 0.3s ease, background-color 0.3s ease;
+  border-top-right-radius: 4px;
+  border-top-left-radius: 4px;
+}
+
+.active-dropdown {
+  background-color: white;
+  color: #393131;
+}
+
+.dropdown {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: white;
+  border: 1px solid #ccc;
+  padding: 8px 0;
+  min-width: 120px;
+  z-index: 100;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  opacity: 0;
+  transform: translateY(-10px);
+  pointer-events: none;
+  transition: opacity 0.3s ease, transform 0.3s ease;
+  max-height: 150px;
+  overflow-y: scroll;
+}
+
+.dropdown::-webkit-scrollbar{
+  display: none;
+}
+
+.dropdown.show {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+
+.dropdown li {
+  padding: 10px 100px;
+  white-space: nowrap;
+  color: #393131;
+  font-size: 20px;
+  list-style-type: none;
+  border-top: 1px solid grey;
+  opacity: 0;
+  animation-name: fadeInSlide;
+  animation-duration: 0.3s;
+  animation-fill-mode: both;
+  width: 250px;
+}
+
+.dropdown li:first-child {
+  border-top: none;
+}
+
+.dropdown li:hover {
+  background-color: #eee;
+}
+
+@keyframes fadeInSlide {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.p-right-navbar {
+  display: flex;
+  padding: 10px;
+}
+
+.p-right-navbar span {
+  font-size: 20px;
+  letter-spacing: 3px;
+  font-family: 'Montserrat';
+}
+
+.p-right-navbar button {
+  display: flex;
+  background-color:transparent;
+  border: none;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  gap: 15px;
+}
+
+.p-right-navbar button:hover{
+  background-color: #ccc;
+  color: #8a3225;
+}

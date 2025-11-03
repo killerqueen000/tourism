@@ -1,0 +1,430 @@
+{
+  "Perlis": [
+    {
+      "position": [6.620998553604228, 100.30309263105664],
+      "popupText": "Ladang Kenaf",
+      "image": "/assets/state/perlis/map/kenaf.jpg",
+      "address": "Chuping, 02450 Kangar, Perlis, Malaysia"
+    },
+    {
+      "position": [6.603181535083929, 100.25880199037674],
+      "popupText": "Bukit Chabang Mari",
+      "image": "/assets/state/perlis/map/cabang.jpg",
+      "address": "Kampong baru bukit Chabang selatan, Kampong bukit chabang, 02100 Padang Besar, Perlis, Malaysia"
+    },
+    {
+      "position": [6.426454441622925, 100.14355019185649],
+      "popupText": "Kampung Wai",
+      "image": "/assets/state/perlis/map/2.jpg",
+      "address": "02000 Kuala Perlis, Perlis"
+    },
+    {
+      "position": [6.440221638454129, 100.1953088222423],
+      "popupText": "Kangar Street Art",
+      "image": "/assets/state/perlis/map/1.jpg",
+      "address": "Lorong Seni, Pusat Bandar Kangar, 01000 Kangar, Perlis, Malaysia"
+    },
+    {
+      "position": [6.58624464377833, 100.23504993109593],
+      "popupText": "Timah Tasoh View",
+      "image": "/assets/state/perlis/map/3.png",
+      "address": "Tasoh Lake Resort & Retreat, 02400 Kangar, Perlis, Malaysia"
+    },
+    {
+      "position": [6.6660035010167125, 100.2013303375874],
+      "popupText": "Wang Kelian View Point",
+      "image": "/assets/state/perlis/map/4.jpg",
+      "address": "02200 Kaki Bukit, Perlis, Malaysia"
+    }
+  ],
+  "Kedah": [
+    {
+      "position": [6.309358760549319, 99.85454131288014],
+      "popupText": "Lagenda Langkawi Dalam Taman",
+      "image": "/assets/state/kedah/map/1.jpg",
+      "address": "Kuah, 07000 Langkawi, Kedah, Malaysia"
+    },
+    {
+      "position": [6.405227027981022, 99.85835336447448],
+      "popupText": "Kilim Geoforest Park",
+      "image": "/assets/state/kedah/map/2.jpg",
+      "address": "Kilim River Tourism Jetty, Mukim Kampung Kilim, 07000 Langkawi, Kedah, Malaysia"
+    },
+    {
+      "position": [6.387987183424256, 99.86216680359655],
+      "popupText": "Langkawi Wildlife Park",
+      "image": "/assets/state/kedah/map/3.jpg",
+      "address": "Lot 1485, Jalan Ayer Hangat, Kampung Belanga Pechah, 07000 Langkawi, Kedah, Malaysia"
+    },
+    {
+      "position": [6.339522617566222, 99.78401923378384],
+      "popupText": "Makam Mahsuri",
+      "image": "/assets/state/kedah/map/4.jpeg",
+      "address": "Jalan Makam Mahsuri, Kampung Mawar, 07000 Langkawi, Kedah, Malaysia"
+    },
+    {
+      "position": [6.383490367381933, 99.67413475239269],
+      "popupText": "Seven Wells Waterfall",
+      "image": "/assets/state/kedah/map/5.jpg",
+      "address": "Mukim, Jalan Telaga Tujuh, 07000 Langkawi, Kedah, Malaysia"
+    },
+    {
+      "position": [6.321202337671727, 99.85492192161706],
+      "popupText": "Pulau Langkawi",
+      "image": "/assets/state/kedah/map/6.jpg",
+      "address": "Persiaran Putera Kuah, 07000 Langkawi, Kedah, Malaysia"
+    },
+    {
+      "position": [6.121820628523071, 100.36664638384225],
+      "popupText": "Sultan Abdul Halim Muadzam Shah Gallery",
+      "image": "/assets/state/kedah/map/7.jpg",
+      "address": "Medan Bandar, Jalan Raja, 05100 Alor Setar, Kedah, Malaysia"
+    }
+  ],
+  "Johor": [
+    {
+      "position": [1.4274930797891103, 103.62944458126564],
+      "popupText": "LEGOLAND Malaysia",
+      "image": "/assets/state/johor/map/1.png",
+      "address": "7, Persiaran Medini Utara 3, 79100 Iskandar Puteri, Johor Darul Ta'zim, Malaysia"
+    },
+    {
+      "position": [1.4619873374977461, 103.76344793018033],
+      "popupText": "Johor Bahru City Square",
+      "image": "/assets/state/johor/map/2.jpg",
+      "address": "106-108, Jalan Wong Ah Fook, Bandar Johor Bahru, 80000 Johor Bahru, Johor, Malaysia"
+    },
+    {
+      "position": [1.7272544119008522, 103.91137116105894],
+      "popupText": "Kota Tinggi Firefly Park",
+      "image": "/assets/state/johor/map/3.jpg",
+      "address": "Jalan Kota Tinggi, 81900 Kota Tinggi, Johor Darul Ta'zim, Malaysia"
+    },
+    {
+      "position": [1.46892465654271, 103.75972568438846],
+      "popupText": "Arulmigu Sri Rajakaliamman Glass Temple",
+      "image": "/assets/state/johor/map/4.jpg",
+      "address": "Jalan Tun Abdul Razak 1/1, Wadi Hana, 80300 Johor Bahru, Johor Darul Ta'zim, Malaysia"
+    },
+    {
+      "position": [1.4786395955481364, 103.71979813216782],
+      "popupText": "Danga Bay",
+      "image": "/assets/state/johor/map/5.jpg",
+      "address": "Danga Bay, 80200 Johor Bahru, Johor, Malaysia"
+    },
+    {
+      "position": [1.4574217738966149, 103.751446576683],
+      "popupText": "Sultan Abu Bakar Mosque",
+      "image": "/assets/state/johor/map/6.png",
+      "address": "Jalan Gertak Merah, Masjid Sultan Abu Bakar, 80000 Johor Bahru, Johor Darul Ta'zim, Malaysia"
+    },
+    {
+      "position": [2.519431212332149, 103.97656759550449],
+      "popupText": "Pulau Rawa",
+      "image": "/assets/state/johor/map/7.jpg",
+      "address": "Rawa Island, Johor, Malaysia"
+    }
+  ],
+  "Kelantan": [
+    {
+      "position": [6.130377115965443, 102.23926072345814],
+      "popupText": "Siti Khadijah Market",
+      "image": "/assets/state/kelantan/map/1.jpg",
+      "address": "Jalan Buluh Kubu, Bandar Kota Bharu, 15000 Kota Bharu, Kelantan, Malaysia"
+    },
+    {
+      "position": [6.140373649037829, 102.2324424363067],
+      "popupText": "Menara Tinjau Tambatan Diraja",
+      "image": "/assets/state/kelantan/map/2.jpg",
+      "address": "Jalan Sultan, Bandar Kota Bharu, 15400 Kota Bharu, Kelantan, Malaysia"
+    },
+    {
+      "position": [6.13164331053148, 102.23670971961046],
+      "popupText": "Gerbang Kota Sultan Ismail Petra",
+      "image": "/assets/state/kelantan/map/3.jpg",
+      "address": "D1, Bandar Kota Bharu, 15000 Kota Bharu, Kelantan, Malaysia"
+    },
+    {
+      "position": [5.026552033459776, 101.76202133679261],
+      "popupText": "Gua Cha",
+      "image": "/assets/state/kelantan/map/4.jpg",
+      "address": "2QG6+HR, Gua Musang, Kelantan, Malaysia"
+    },
+    {
+      "position": [5.3544653631792505, 102.02649918097383],
+      "popupText": "Gua Ikan",
+      "image": "/assets/state/kelantan/map/5.jpg",
+      "address": "Kuala Gris, 18200 Dabong, Kelantan, Malaysia"
+    },
+    {
+      "position": [4.871346786886435, 102.44035395398372],
+      "popupText": "Taman Negara Kuala Koh",
+      "image": "/assets/state/kelantan/map/6.jpg",
+      "address": "Taman Negara, Kuala Koh, 18300, Kelantan, Malaysia"
+    },
+    {
+      "position": [5.338439463462486, 101.93726246654445],
+      "popupText": "Gunung Stong",
+      "image": "/assets/state/kelantan/map/7.jpg",
+      "address": "Dabong, Kelantan, Malaysia"
+    },
+    {
+      "position": [6.154644600829899, 102.23101206563872],
+      "popupText": "Kampung Laut Mosque",
+      "image": "/assets/state/kelantan/map/8.jpg",
+      "address": "Jalan Tok Nek, 16200 Tumpat, Kelantan, Malaysia"
+    }
+  ],
+  "Kl": [
+    {
+      "position": [3.2382148408767906, 101.68403939522292],
+      "popupText": "Batu Caves",
+      "image": "/assets/state/kl/map/1.jpg",
+      "address": "Gombak, 68100 Batu Caves, Selangor, Malaysia"
+    },
+    {
+      "position": [3.161696281701266, 101.66343502705942],
+      "popupText": "Istana Negara",
+      "image": "/assets/state/kl/map/2.jpg",
+      "address": "Jln Tuanku Abdul Halim, Bukit Damansara, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+    },
+    {
+      "position": [3.153042119243385, 101.70395694254039],
+      "popupText": "Menara Kuala Lumpur",
+      "image": "/assets/state/kl/map/3.jpg",
+      "address": "2 Jalan Punchak, Off, Jalan P. Ramlee, 50250 Kuala Lumpur, Malaysia"
+    },
+    {
+      "position": [3.1492750575768214, 101.69379360979815],
+      "popupText": "Dataran Merdeka",
+      "image": "/assets/state/kl/map/4.jpg",
+      "address": "Kuala Lumpur City Centre, 50050 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia"
+    },
+    {
+      "position": [3.149457414743222, 101.68373936446515],
+      "popupText": "Tugu Negara",
+      "image": "/assets/state/kl/map/5.jpg",
+      "address": "Kuala Lumpur, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia"
+    },
+    {
+      "position": [3.142171218413262, 101.69181615119999],
+      "popupText": "National Mosque",
+      "image": "/assets/state/kl/map/6.jpg",
+      "address": "Jalan Perdana, Tasik Perdana, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+    },
+    {
+      "position": [3.157940202741307, 101.71157464396327],
+      "popupText": "Menara Berkembar Petronas",
+      "image": "/assets/state/kl/map/7.jpg",
+      "address": "Petronas Twin Tower, Lower Ground (Concourse) Level, Kuala Lumpur City Centre, 50088 Kuala Lumpur, Malaysia"
+    },
+    {
+      "position": [3.122156343844752, 101.68779149657482],
+      "popupText": "Thean Hou Temple",
+      "image": "/assets/state/kl/map/8.jpg",
+      "address": "65, Persiaran Endah, Taman Persiaran Desa, 50460 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+    }
+  ],
+  "Melaka": [
+    {
+      "position": [2.1952815129215217, 102.24892673542526],
+      "popupText": "Stadthuys",
+      "image": "/assets/state/melaka/map/1.jpg",
+      "address": "31, Jalan Laksamana, Banda Hilir, 75000 Melaka, Malaysia"
+    },
+    {
+      "position": [2.1928539454822307, 102.25058266441782],
+      "popupText": "Melaka Sultanate Palace Museum",
+      "image": "/assets/state/melaka/map/2.jpg",
+      "address": "Jln Kota, Banda Hilir, 75000 Melaka, Malaysia"
+    },
+    {
+      "position": [2.1926564434532354, 102.2503677121369],
+      "popupText": "A Famosa",
+      "image": "/assets/state/melaka/map/3.jpg",
+      "address": "Jln Parameswara, Banda Hilir, 78000 Alor Gajah, Melaka, Malaysia"
+    },
+    {
+      "position": [2.195576290146944, 102.24812952008293],
+      "popupText": "Jonker Street Night Market",
+      "image": "/assets/state/melaka/map/4.jpg",
+      "address": "Jalan Hang Jebat, 75200 Melaka, Malaysia"
+    },
+    {
+      "position": [2.1997641069878404, 102.29816801839073],
+      "popupText": "Hang Tuah Center",
+      "image": "/assets/state/melaka/map/5.jpg",
+      "address": "Kampung Jambatan Duyong, 75460 Malacca, Malaysia"
+    },
+    {
+      "position": [2.2125116667171927, 102.19688039734503],
+      "popupText": "Malacca Submarine Museum",
+      "image": "/assets/state/melaka/map/6.jpg",
+      "address": "Jln Klebang Kecil, 75200 Melaka, Malaysia"
+    },
+    {
+      "position": [2.19286315038655, 102.24860390859571],
+      "popupText": "St Pauls Hill Melaka",
+      "image": "/assets/state/melaka/map/7.jpg",
+      "address": "Banda Hilir, 75000 Malacca, Malaysia"
+    },
+    {
+      "position": [2.19253322378718, 102.2465261814522],
+      "popupText": "Muzium Samudera (Flor de La Mar)",
+      "image": "/assets/state/melaka/map/8.jpg",
+      "address": "Jln Merdeka, Banda Hilir, 75000 Melaka, Malaysia"
+    }
+  ],
+  "Pahang": [
+    {
+      "position": [3.9228516741021777, 102.94767653534264],
+      "popupText": "Lembing Rainbow Waterfall",
+      "image": "/assets/state/pahang/map/1.jpg",
+      "address": "Pahang, Malaysia"
+    },
+    {
+      "position": [4.180143449736004, 102.19063589727747],
+      "popupText": "Kenong Eco Camp",
+      "image": "/assets/state/pahang/map/2.jpg",
+      "address": "Kampung Kuala Kenong, Kuala Lipis, Pahang, Malaysia"
+    },
+    {
+      "position": [4.636428613537919, 102.23616923138435],
+      "popupText": "Gunung Tahan",
+      "image": "/assets/state/pahang/map/3.jpg",
+      "address": "Pahang, Malaysia"
+    },
+    {
+      "position": [4.527617425707489, 101.403997576042],
+      "popupText": "A'moss",
+      "image": "/assets/state/pahang/map/4.jpg",
+      "address": "Amoss Road, Kampung Gerak Sepadu,39000, 39000 Brinchang, Pahang, Malaysia"
+    },
+    {
+      "position": [4.545645734760181, 101.42211052006932],
+      "popupText": "Cameron Valley Tea House 3",
+      "image": "/assets/state/pahang/map/5.jpg",
+      "address": "59, Pahang, Malaysia"
+    },
+    {
+      "position": [4.472169334862146, 101.38667367655839],
+      "popupText": "Cameron Highlands",
+      "image": "/assets/state/pahang/map/6.jpg",
+      "address": "39000 Pahang, Malaysia"
+    }
+  ],
+  "Perak": [
+    {
+      "position": [4.35, 101.04],
+      "popupText": "Ipoh Old Town",
+      "image": "/assets/state/pahang/map/1.jpg",
+      "address": "Ipoh, Perak, Malaysia"
+    },
+    {
+      "position": [4.760446136543978, 100.95582449508939],
+      "popupText": "Muzium Diraja Kuala Kangsar",
+      "image": "/assets/state/pahang/map/2.jpg",
+      "address": "Istana Lama Bukit Chandan, Perak, 33000 Kuala Kangsar, Malaysia"
+    },
+    {
+      "position": [4.026078924630735, 101.01943962794789],
+      "popupText": "Menara Condong Teluk Intan",
+      "image": "/assets/state/pahang/map/3.jpg",
+      "address": "Menara Condong, Jalan Bandar, Pekan Teluk Intan, 36000 Teluk Intan, Perak, Malaysia"
+    },
+    {
+      "position": [4.994171283871756, 100.91865342806439],
+      "popupText": "Lenggong Valley Campsite",
+      "image": "/assets/state/pahang/map/4.jpg",
+      "address": "Jalan Empangan Air, Lata Papan, Kampung Kuak, 33400 Lenggong, Perak, Malaysia"
+    },
+    {
+      "position": [4.212986183319124, 100.57301383605314],
+      "popupText": "Pangkor Island",
+      "image": "/assets/state/pahang/map/5.jpg",
+      "address": "Pulau Pangkor,Perak,Malaysia"
+    },
+    {
+      "position": [5.811643765048438, 101.50660934244767],
+      "popupText": "Royal Belum State Park",
+      "image": "/assets/state/pahang/map/6.jpg",
+      "address": "Perak, Malaysia"
+    },
+    {
+      "position": [3.9987161100983655, 101.39316555863232],
+      "popupText": "Sungai Klah Hot Spring Park",
+      "image": "/assets/state/pahang/map/7.jpg",
+      "address": "35600 Sungkai, Perak, Malaysia"
+    },
+    {
+      "position": [4.416993451184198, 101.18798552005394],
+      "popupText": "Gua Tempurung",
+      "image": "/assets/state/pahang/map/8.jpg",
+      "address": "Jln Gua Tempurung, 31600 Gopeng, Perak, Malaysia"
+    },
+    {
+      "position": [4.856064055574506, 100.75081733598425],
+      "popupText": "Zoo Taiping & Night Safari",
+      "image": "/assets/state/pahang/map/9.jpg",
+      "address": "Jalan Pekeliling, Taman Tasik Taiping, 34000 Taiping, Perak, Malaysia"
+    }
+  ],
+  "Penang": [
+    {
+      "position": [5.413016481252959, 100.33968638209173],
+      "popupText": "Chew Jetty",
+      "image": "/assets/state/penang/map/1.jpg",
+      "address": "Georgetown, 10300 George Town, Penang, Malaysia"
+    },
+    {
+      "position": [5.414841862111, 100.3382611643986],
+      "popupText": "Penang Street Art",
+      "image": "/assets/state/penang/map/2.jpg",
+      "address": "316, Beach St, Georgetown, 10300 George Town, Penang, Malaysia"
+    },
+    {
+      "position": [5.425989643844733, 100.26878073553021],
+      "popupText": "The Habitat Penang Hill",
+      "image": "/assets/state/penang/map/3.jpg",
+      "address": "C7G9+69, Bukit Bendera, 11300 Bukit Bendera, Pulau Pinang, Malaysia"
+    },
+    {
+      "position": [5.422518796555495, 100.33472165140566],
+      "popupText": "Cheong Fatt Tze, The Blue Mansion",
+      "image": "/assets/state/penang/map/4.jpg",
+      "address": "14, Lebuh Leith, George Town, 10200 George Town, Pulau Pinang, Malaysia"
+    },
+    {
+      "position": [5.467826179391879, 100.22932504090133],
+      "popupText": "Tropical Spice Garden",
+      "image": "/assets/state/penang/map/5.jpg",
+      "address": "Lot 595 Mukim, 2, Jalan Teluk Bahang, Teluk Bahang, 11050 George Town, Pulau Pinang, Malaysia"
+    }
+  ],
+  "Putrajaya": [
+    {
+      "position": [2.945031905045259, 101.6954513212686],
+      "popupText": "Putrajaya Botanical Garden",
+      "image": "/assets/state/putrajaya/map/1.jpg",
+      "address": "Lebuh Perdana Barat, Presint 1, 62000 Putrajaya, Wilayah Persekutuan Putrajaya, Malaysia"
+    },
+    {
+      "position": [2.9438275457954863, 101.6894529678606],
+      "popupText": "Putrajaya Lake",
+      "image": "/assets/state/putrajaya/map/2.jpg",
+      "address": "Presint 1, 62000 Putrajaya, Malaysia"
+    },
+    {
+      "position": [2.9362523478243885, 101.68929882496755],
+      "popupText": "Putra Mosque",
+      "image": "/assets/state/putrajaya/map/3.jpg",
+      "address": "Persiaran Persekutuan, Presint 1, 62502 Putrajaya, Wilayah Persekutuan Putrajaya, Malaysia"
+    },
+    {
+      "position": [2.901802744057217, 101.67041570178385],
+      "popupText": "Marina Putrajaya",
+      "image": "/assets/state/putrajaya/map/4.jpg",
+      "address": "1, Jalan P5/5, Presint 5, 62200 Putrajaya, Wilayah Persekutuan Putrajaya, Malaysia"
+    }
+  ]
+}

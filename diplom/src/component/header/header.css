@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css?family=ABeeZee");
+
+.header {
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 0;
+  background-size: cover;
+  background-position: center;
+  transition: background-image 0.5s ease, background-color 0.3s ease;
+  z-index: 500;
+  transition: background-image 0.5s ease, background-color 0.3s ease,
+    backdrop-filter 0.3s ease;
+}
+
+.header.scrolled {
+  background-color: rgba(0, 0, 0, 0.3); /* translucent black */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.header.visible {
+  transform: translateY(0);
+  opacity: 1;
+}
+
+.logo-container {
+  width: 200px;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+/* Target only the white logo */
+.tourism-logo.white-logo {
+  transform: translateX(180px); /* adjust this value as needed */
+}
+
+.tourism-logo {
+  width: auto;
+  height: 100px;
+  object-fit: contain;
+  transition: opacity 0.5s ease;
+  position: relative; /* changed from absolute */
+  opacity: 0;
+  z-index: 1;
+  margin: 0;
+  padding: 0;
+}
+.tourism-logo.visible {
+  opacity: 1;
+  z-index: 2;
+}
+.tourism-logo.hidden {
+  opacity: 0;
+  z-index: 1;
+}
+
+.nav {
+  display: flex;
+  background-color: rgba(0, 0, 0, 0.38);
+  border-radius: 50px;
+  padding: 1px 30px;
+}
+
+.nav-list {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  font-family: ABeeZee, sans-serif;
+  font-size: 20px;
+  letter-spacing: 0.5px;
+}
+
+.nav-list li button {
+  border: none;
+  background: none;
+  color: white;
+  font-weight: 500;
+  cursor: pointer;
+}
